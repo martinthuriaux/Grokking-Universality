@@ -1,2 +1,0 @@
-# Grokking-Universality
-Grokking Project
